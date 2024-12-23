@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HungDang</h1>
-<h3 align="center">A motivated and enthusiastic frontend developer from Da Nang</h3>
+<h3 align="center">A motivated and enthusiastic frontend developer from Da Nang, Viet Nam</h3>
 <h3 align="center">eager to apply my skills and grow through hands-on experience in a professional environment</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hungdang48" alt="hungdang48" /></a> </p>
