@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dang Viet Hung</h1>
+<h1 align="center">Hi 👋, I'm HungDang</h1>
 <h3 align="center">A motivated and enthusiastic frontend developer from Vietnam</h3>
 <h3 align="center">eager to apply my skills and grow through hands-on experience in a professional environment</h3>
 
