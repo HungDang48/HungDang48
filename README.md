@@ -26,9 +26,9 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hungdang48/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hung-dang48/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:hungdang.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail" /></a>
-  <a href="https://hungdang48.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://viet-hung-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
